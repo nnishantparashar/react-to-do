@@ -1,0 +1,19 @@
+
+.card{
+    width: 21rem;
+    margin: 0.5rem;
+   
+}
+
+.card-body{
+    background-color: #b1debf;
+}
+
+.action-btn{
+    margin-left: 6rem;
+}
+
+.custom-select{
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
