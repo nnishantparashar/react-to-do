@@ -3,3 +3,11 @@
     gap: 1rem;
     flex-wrap: wrap;
 }
+.filtered{
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 2rem;
+    color: crimson;
+    ;
+}

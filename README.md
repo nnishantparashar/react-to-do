@@ -1,5 +1,6 @@
 # This app uses some Dummy data for demontration purpose. 
 # Users can add new todo, filter task and can change the status of task
+# User can update as well as delete task.
 # Default status of every task is 'Not Completed'.
 
 # Dummy Data
