@@ -57,7 +57,7 @@ function App() {
 //handle update
 
   const updateTodoHandler = (updateData) => {
-    console.log(updateData);
+    //console.log(updateData);
     setEdit(false);
     
   };
